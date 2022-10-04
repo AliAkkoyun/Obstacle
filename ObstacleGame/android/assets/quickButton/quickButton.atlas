@@ -1,0 +1,62 @@
+
+quickButton.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+elementStone014
+  rotate: false
+  xy: 104, 22
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+elementStone024
+  rotate: false
+  xy: 226, 2
+  size: 220, 140
+  orig: 220, 140
+  offset: 0, 0
+  index: -1
+home
+  rotate: false
+  xy: 308, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 410, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 2, 42
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 2, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 206, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 104, 144
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

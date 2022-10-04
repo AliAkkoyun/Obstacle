@@ -1,0 +1,67 @@
+
+GameUi.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Background3
+  rotate: false
+  xy: 2, 146
+  size: 1200, 1600
+  orig: 1200, 1600
+  offset: 0, 0
+  index: -1
+alienPink_suit
+  rotate: false
+  xy: 2, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+alienYellow_suit
+  rotate: false
+  xy: 74, 74
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+coinGold
+  rotate: false
+  xy: 1204, 1676
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+coinSilver
+  rotate: false
+  xy: 2, 74
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+
+GameUi2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Background2
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1600
+  orig: 1200, 1600
+  offset: 0, 0
+  index: -1
+
+GameUi3.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+backgroundCastles
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1600
+  orig: 1200, 1600
+  offset: 0, 0
+  index: -1

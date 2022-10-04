@@ -1,0 +1,111 @@
+
+menages.png
+size: 512, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+block_large
+  rotate: false
+  xy: 0, 265
+  size: 300, 591
+  orig: 300, 591
+  offset: 0, 0
+  index: -1
+button_gray_easy
+  rotate: false
+  xy: 300, 644
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_gray_easy_hover
+  rotate: false
+  xy: 0, 53
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_gray_normal
+  rotate: false
+  xy: 128, 53
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_gray_normal_hover
+  rotate: false
+  xy: 128, 106
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_back
+  rotate: false
+  xy: 0, 212
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_back_hover
+  rotate: false
+  xy: 0, 159
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_hard
+  rotate: false
+  xy: 128, 212
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_hard_hover
+  rotate: false
+  xy: 0, 106
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_highscore
+  rotate: false
+  xy: 300, 803
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_highscore_hover
+  rotate: false
+  xy: 128, 159
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_options
+  rotate: false
+  xy: 300, 750
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_options_hover
+  rotate: false
+  xy: 0, 0
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+button_grey_play
+  rotate: false
+  xy: 300, 697
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+star_check
+  rotate: false
+  xy: 428, 833
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

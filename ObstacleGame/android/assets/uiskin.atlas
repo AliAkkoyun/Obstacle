@@ -1,0 +1,41 @@
+
+uiskin.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+buttonDefault
+  rotate: false
+  xy: 144, 173
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+buttonSelected
+  rotate: false
+  xy: 144, 122
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+elementStone053
+  rotate: false
+  xy: 2, 2
+  size: 140, 220
+  orig: 140, 220
+  offset: 0, 0
+  index: -1
+joystickLeft
+  rotate: false
+  xy: 144, 70
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+joystickRight
+  rotate: false
+  xy: 336, 172
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
